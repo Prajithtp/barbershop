@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 #banner{
-    background: url(/asset/images/banner.jpg);
+    background: url(../images/banner.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
